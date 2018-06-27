@@ -1,0 +1,3 @@
+﻿  MyFunction.cpp
+d:\code ide\visual studio 2017\project\studentmanagement\studentmanagement\myfunction.cpp(165): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  StudentManagement.vcxproj -> D:\Code IDE\Visual Studio 2017\Project\StudentManagement\Debug\StudentManagement.exe
